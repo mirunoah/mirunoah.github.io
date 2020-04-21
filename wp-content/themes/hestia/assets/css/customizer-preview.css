@@ -322,7 +322,7 @@ body.page .hestia-blogs:not(.is-shortcode):hover:before,
 }
 
 .customize-partial-refreshing:before {
-  content: url(http://mirunoah.github.io/wp-content/themes/hestia/assets/img/ajax-loader.gif) !important;
+  content: url(https://mirunoah.github.io/wp-content/themes/hestia/assets/img/ajax-loader.gif) !important;
   top: 50% !important;
   -webkit-transform: translate3d(-50%, 0, 0);
           transform: translate3d(-50%, 0, 0);

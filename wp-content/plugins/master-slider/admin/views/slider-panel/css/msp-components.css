@@ -95,7 +95,7 @@
 .msp-ddlist:after {
 	content: "";
 	display: block;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) no-repeat -200px -72px;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) no-repeat -200px -72px;
 	width: 10px;
 	height: 10px;
 	position: absolute;
@@ -122,7 +122,7 @@
 }
 
 .sp-clear-display {
-	background-image: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/no-color.gif);
+	background-image: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/no-color.gif);
 }
 
 .sp-replacer:hover, .sp-replacer.sp-active {
@@ -138,7 +138,7 @@
 }
 .sp-dd {
 	text-indent: -99999px;	  
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) #FFF no-repeat -200px -72px;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) #FFF no-repeat -200px -72px;
 	width: 10px;
 	height: 8px;
 	margin-top: 5px;

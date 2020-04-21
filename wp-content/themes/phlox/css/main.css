@@ -17,7 +17,7 @@
  */
 .aux-svg-arrow,
 .aux-svg-symbol {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block; }
   .aux-svg-arrow.aux-thick-up,
@@ -826,7 +826,7 @@ table tr td, table tr:nth-child(even) td, table tr.even td {
       display: inline-block;
       vertical-align: middle; }
     .aux-top-header #lang_sel::after {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 10px;
@@ -930,7 +930,7 @@ table tr td, table tr:nth-child(even) td, table tr.even td {
       z-index: 1; }
     .aux-cart-wrapper .aux-shopping-basket:after {
       content: '';
-      background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/downarrow.svg) no-repeat;
+      background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/downarrow.svg) no-repeat;
       position: absolute;
       left: 0;
       right: 0;
@@ -2406,11 +2406,11 @@ table tr td, table tr:nth-child(even) td, table tr.even td {
   background-repeat: no-repeat;
   background-position: center center; }
 .aux-preloading.aux-simple-spinner {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/spinner-default.svg); }
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/spinner-default.svg); }
 .aux-preloading.aux-simple-spinner-light {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/spinner-light.svg); }
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/spinner-light.svg); }
 .aux-preloading.aux-simple-spinner-dark {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/spinner-dark.svg); }
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/spinner-dark.svg); }
 
 .aux-preloaded.aux-blank {
   -webkit-animation-name: AuxFadeInPreloaded;
@@ -6911,7 +6911,7 @@ body > .elementor {
 .pswp__button,
 .pswp__button--arrow--left:before,
 .pswp__button--arrow--right:before {
-  background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/photoswipe/default-skin.png) 0 0 no-repeat;
+  background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/photoswipe/default-skin.png) 0 0 no-repeat;
   background-size: 264px 88px;
   width: 44px;
   height: 44px; }
@@ -6921,7 +6921,7 @@ body > .elementor {
   .pswp--svg .pswp__button,
   .pswp--svg .pswp__button--arrow--left:before,
   .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/photoswipe/default-skin.svg); }
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/photoswipe/default-skin.svg); }
 
   .pswp--svg .pswp__button--arrow--left,
   .pswp--svg .pswp__button--arrow--right {
@@ -7181,7 +7181,7 @@ a.pswp__share--download:hover {
 
 .pswp__preloader--active .pswp__preloader__icn {
   /* We use .gif in browsers that don't support CSS animation */
-  background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/photoswipe/preloader.gif) 0 0 no-repeat; }
+  background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/photoswipe/preloader.gif) 0 0 no-repeat; }
 
 .pswp--css_animation .pswp__preloader--active {
   opacity: 1; }
@@ -23973,7 +23973,7 @@ select:not([multiple]) {
   border-radius: 0;
   border: solid 1px #BBB;
   padding: 16px 48px 16px 18px;
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/controls/arrows/small-arrow-down.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/controls/arrows/small-arrow-down.svg);
   background-repeat: no-repeat;
   background-position: right center; }
   select:not([multiple])::-ms-expand {
@@ -24030,7 +24030,7 @@ input[type="radio"] {
     outline: none; }
   .aux-checkbox:checked,
   .wpcf7-form .wpcf7-checkbox input[type="checkbox"]:checked {
-    background: url("http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/checkbox.svg");
+    background: url("https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/checkbox.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 13px 7px; }
@@ -25580,28 +25580,28 @@ input[type="button"] .aux-icon,
     .aux-pagination li.next a:hover::before {
       opacity: 1; }
   .aux-pagination li.next a::after {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 6px;
     height: 10px;
     background-position: 0px -761px; }
   .aux-pagination li.prev a::after {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 6px;
     height: 10px;
     background-position: 0px -722px; }
   .aux-pagination li.next a::before {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 6px;
     height: 10px;
     background-position: -178px -761px; }
   .aux-pagination li.prev a::before {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 6px;
@@ -25655,7 +25655,7 @@ input[type="button"] .aux-icon,
   -webkit-transition: none;
           transition: none; }
 .mejs-container.aux-player-dark .mejs-overlay-button, .mejs-container.aux-player-light .mejs-overlay-button, .mejs-container.aux-player-light .mejs-overlay-button {
-  background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-video-play.svg) no-repeat -30px -30px;
+  background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-video-play.svg) no-repeat -30px -30px;
   width: 72px;
   height: 48px;
   margin: -24px 0 0 -36px; }
@@ -25743,7 +25743,7 @@ input[type="button"] .aux-icon,
   background-color: black;
   color: white; }
   .mejs-container.aux-player-dark .mejs-controls .mejs-playpause-button button, .mejs-container.aux-player-light .mejs-controls .mejs-playpause-button button {
-    background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -18px -16px; }
+    background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -18px -16px; }
     .mejs-container.aux-player-dark .mejs-controls .mejs-playpause-button button:hover, .mejs-container.aux-player-light .mejs-controls .mejs-playpause-button button:hover {
       background-position: -84px -16px; }
   .mejs-container.aux-player-dark .mejs-controls .mejs-pause button, .mejs-container.aux-player-light .mejs-controls .mejs-pause button {
@@ -25758,7 +25758,7 @@ input[type="button"] .aux-icon,
   .mejs-container.aux-player-dark .mejs-controls .mejs-time-rail .mejs-time-current, .mejs-container.aux-player-light .mejs-controls .mejs-time-rail .mejs-time-current {
     background-color: white; }
   .mejs-container.aux-player-dark .mejs-controls .mejs-volume-button button, .mejs-container.aux-player-light .mejs-controls .mejs-volume-button button {
-    background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -26px -236px; }
+    background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -26px -236px; }
     .mejs-container.aux-player-dark .mejs-controls .mejs-volume-button button:hover, .mejs-container.aux-player-light .mejs-controls .mejs-volume-button button:hover {
       background-position: -92px -236px; }
   .mejs-container.aux-player-dark .mejs-controls .mejs-unmute button, .mejs-container.aux-player-light .mejs-controls .mejs-unmute button {
@@ -25766,7 +25766,7 @@ input[type="button"] .aux-icon,
     .mejs-container.aux-player-dark .mejs-controls .mejs-unmute button:hover, .mejs-container.aux-player-light .mejs-controls .mejs-unmute button:hover {
       background-position: -92px -280px; }
   .mejs-container.aux-player-dark .mejs-controls .mejs-fullscreen-button button, .mejs-container.aux-player-light .mejs-controls .mejs-fullscreen-button button {
-    background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -18px -127px; }
+    background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -18px -127px; }
     .mejs-container.aux-player-dark .mejs-controls .mejs-fullscreen-button button:hover, .mejs-container.aux-player-light .mejs-controls .mejs-fullscreen-button button:hover {
       background-position: -84px -127px; }
   .mejs-container.aux-player-dark .mejs-controls .mejs-unfullscreen button, .mejs-container.aux-player-light .mejs-controls .mejs-unfullscreen button {
@@ -25776,20 +25776,20 @@ input[type="button"] .aux-icon,
 .mejs-container.aux-player-dark.mejs-audio .mejs-controls .mejs-horizontal-volume-slider, .mejs-container.mejs-audio.aux-player-light .mejs-controls .mejs-horizontal-volume-slider {
   height: 100%; }
 .mejs-container.aux-player-dark.mejs-audio .mejs-controls .mejs-horizontal-volume-total, .mejs-container.mejs-audio.aux-player-light .mejs-controls .mejs-horizontal-volume-total {
-  background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -32px -403px; }
+  background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -32px -403px; }
 .mejs-container.aux-player-dark.mejs-audio .mejs-controls .mejs-horizontal-volume-current, .mejs-container.mejs-audio.aux-player-light .mejs-controls .mejs-horizontal-volume-current {
-  background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -32px -348px; }
+  background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/dark-player.controls.svg) no-repeat -32px -348px; }
   .mejs-container.aux-player-dark.mejs-audio .mejs-controls .mejs-horizontal-volume-current:hover, .mejs-container.mejs-audio.aux-player-light .mejs-controls .mejs-horizontal-volume-current:hover {
     background-position: -98px -348px; }
 .mejs-container.aux-player-light .mejs-overlay-button {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-video-play.svg); }
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-video-play.svg); }
 .mejs-container.aux-player-light .mejs-controls {
   background-color: white;
   color: #3D3D3D; }
   .mejs-container.aux-player-light .mejs-controls .mejs-time {
     color: #3D3D3D; }
   .mejs-container.aux-player-light .mejs-controls .mejs-playpause-button button {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
   .mejs-container.aux-player-light .mejs-controls .mejs-pause button {
     background-position: -18px -72px; }
   .mejs-container.aux-player-light .mejs-controls .mejs-time-rail .mejs-time-total {
@@ -25798,9 +25798,9 @@ input[type="button"] .aux-icon,
   .mejs-container.aux-player-light .mejs-controls .mejs-time-rail .mejs-time-current {
     background-color: #3D3D3D; }
   .mejs-container.aux-player-light .mejs-controls .mejs-volume-button button {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
   .mejs-container.aux-player-light .mejs-controls .mejs-fullscreen-button button {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
   .mejs-container.aux-player-light .mejs-controls .mejs-time-rail .mejs-time-float {
     border: none;
     color: white;
@@ -25808,9 +25808,9 @@ input[type="button"] .aux-icon,
     .mejs-container.aux-player-light .mejs-controls .mejs-time-rail .mejs-time-float .mejs-time-float-corner {
       border-top-color: #3D3D3D; }
 .mejs-container.aux-player-light.mejs-audio .mejs-controls .mejs-horizontal-volume-total {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
 .mejs-container.aux-player-light.mejs-audio .mejs-controls .mejs-horizontal-volume-current {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/other/mejs/light-player.controls.svg); }
 
 .wp-playlist {
   border: 0 !important;
@@ -25877,7 +25877,7 @@ input[type="button"] .aux-icon,
       opacity: 0.8;
       padding: 1px 4px; }
     .wp-playlist .wp-playlist-caption:after {
-      content: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/play.svg);
+      content: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/play.svg);
       color: #FFFFFF;
       position: absolute;
       left: 46%;
@@ -25893,7 +25893,7 @@ input[type="button"] .aux-icon,
   .wp-playlist .wp-playlist-playing {
     background: #4f4f4f !important; }
     .wp-playlist .wp-playlist-playing .wp-playlist-caption:after {
-      content: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/pause.svg); }
+      content: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/pause.svg); }
 
 .aux-provider-vimeo .mejs-controls {
   display: none; }
@@ -26387,7 +26387,7 @@ blockquote {
     .aux-column-post-entry .aux-de-col4 .format-gallery .aux-arrow-nav .aux-medium-right,
     .aux-widget-recent-posts .aux-de-col4 .format-gallery .aux-arrow-nav .aux-medium-right,
     .aux-widget-recent-posts-masonry .aux-de-col4 .format-gallery .aux-arrow-nav .aux-medium-right {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 6px;
@@ -26400,7 +26400,7 @@ blockquote {
     .aux-column-post-entry .aux-de-col4 .format-gallery .aux-arrow-nav .aux-medium-left,
     .aux-widget-recent-posts .aux-de-col4 .format-gallery .aux-arrow-nav .aux-medium-left,
     .aux-widget-recent-posts-masonry .aux-de-col4 .format-gallery .aux-arrow-nav .aux-medium-left {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 6px;
@@ -26443,7 +26443,7 @@ blockquote {
     .aux-column-post-entry .aux-tb-col4 .format-gallery .aux-arrow-nav .aux-medium-right,
     .aux-widget-recent-posts .aux-tb-col4 .format-gallery .aux-arrow-nav .aux-medium-right,
     .aux-widget-recent-posts-masonry .aux-tb-col4 .format-gallery .aux-arrow-nav .aux-medium-right {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 6px;
@@ -26456,7 +26456,7 @@ blockquote {
     .aux-column-post-entry .aux-tb-col4 .format-gallery .aux-arrow-nav .aux-medium-left,
     .aux-widget-recent-posts .aux-tb-col4 .format-gallery .aux-arrow-nav .aux-medium-left,
     .aux-widget-recent-posts-masonry .aux-tb-col4 .format-gallery .aux-arrow-nav .aux-medium-left {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 6px;
@@ -27472,7 +27472,7 @@ blockquote {
   display: none; }
 .site-header-section .aux-master-menu.aux-horizontal.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator,
 .aux-elementor-header .aux-master-menu.aux-horizontal.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block;
   width: 10px;
@@ -27487,7 +27487,7 @@ blockquote {
   padding: 0.9375em; }
 .site-header-section .aux-master-menu.aux-vertical.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator,
 .aux-elementor-header .aux-master-menu.aux-vertical.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block;
   width: 6px;
@@ -27505,7 +27505,7 @@ blockquote {
   background-color: #FFFFFF; }
 .site-header-section.aux-header-light .aux-master-menu.aux-horizontal.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator,
 .aux-elementor-header.aux-header-light .aux-master-menu.aux-horizontal.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block;
   width: 10px;
@@ -27514,7 +27514,7 @@ blockquote {
   display: inline-block !important; }
 .site-header-section.aux-header-light .aux-master-menu.aux-vertical.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator,
 .aux-elementor-header.aux-header-light .aux-master-menu.aux-vertical.aux-with-indicator > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block;
   width: 6px;
@@ -27541,7 +27541,7 @@ blockquote {
     .aux-master-menu.aux-vertical.aux-skin-classic .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label, .aux-master-menu.aux-horizontal.aux-skin-classic .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label {
       display: inline-block; }
     .aux-master-menu.aux-vertical.aux-skin-classic .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-horizontal.aux-skin-classic .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 10px;
@@ -27564,7 +27564,7 @@ blockquote {
   .aux-master-menu.aux-vertical.aux-skin-classic .aux-menu-depth-0 > .aux-submenu > .aux-menu-item.aux-hover > .aux-item-content, .aux-master-menu.aux-horizontal.aux-skin-classic .aux-menu-depth-0 > .aux-submenu > .aux-menu-item.aux-hover > .aux-item-content {
     background-color: #EAEAEA; }
   .aux-master-menu.aux-vertical.aux-skin-classic .aux-menu-depth-0 > .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-horizontal.aux-skin-classic .aux-menu-depth-0 > .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 10px;
@@ -27602,7 +27602,7 @@ blockquote {
       display: inline-block; }
     .aux-master-menu.aux-vertical.aux-skin-minimal-center .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-horizontal.aux-skin-minimal-center .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
       vertical-align: middle;
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 10px;
@@ -27646,7 +27646,7 @@ blockquote {
     border-width: 9px;
     border-bottom-color: #BBB; }
   .aux-master-menu.aux-vertical.aux-skin-minimal-center .aux-menu-depth-0 > .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-horizontal.aux-skin-minimal-center .aux-menu-depth-0 > .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 10px;
@@ -27771,7 +27771,7 @@ blockquote {
       .aux-master-menu.aux-horizontal.aux-skin-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label, .aux-master-menu.aux-vertical.aux-skin-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label {
         display: inline-block; }
       .aux-master-menu.aux-horizontal.aux-skin-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-vertical.aux-skin-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-        background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+        background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
         background-repeat: no-repeat;
         display: block;
         width: 6px;
@@ -27792,7 +27792,7 @@ blockquote {
           opacity: 0;
           z-index: 1;
           content: "";
-          background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+          background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
           background-repeat: no-repeat;
           display: block;
           width: 6px;
@@ -27847,7 +27847,7 @@ blockquote {
     .aux-master-menu.aux-vertical.aux-skin-classic-center .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label, .aux-master-menu.aux-horizontal.aux-skin-classic-center .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label {
       display: inline-block; }
     .aux-master-menu.aux-vertical.aux-skin-classic-center .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-horizontal.aux-skin-classic-center .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 6px;
@@ -27935,7 +27935,7 @@ blockquote {
       .aux-master-menu.aux-vertical.aux-skin-dash-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label, .aux-master-menu.aux-horizontal.aux-skin-dash-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label {
         display: inline-block; }
       .aux-master-menu.aux-vertical.aux-skin-dash-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-horizontal.aux-skin-dash-divided .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-        background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+        background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
         background-repeat: no-repeat;
         display: block;
         width: 6px;
@@ -27969,7 +27969,7 @@ blockquote {
     .aux-master-menu.aux-vertical.aux-skin-dash-divided.aux-light .aux-submenu > .aux-menu-item > .aux-item-content, .aux-master-menu.aux-horizontal.aux-skin-dash-divided.aux-light .aux-submenu > .aux-menu-item > .aux-item-content {
       border-bottom-color: #BBB; }
       .aux-master-menu.aux-vertical.aux-skin-dash-divided.aux-light .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator, .aux-master-menu.aux-horizontal.aux-skin-dash-divided.aux-light .aux-submenu > .aux-menu-item > .aux-item-content > .aux-submenu-indicator {
-        background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+        background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
         background-repeat: no-repeat;
         display: block;
         width: 6px;
@@ -28178,7 +28178,7 @@ aside .aux-widget-area {
     position: absolute;
     top: 4px;
     right: 0;
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 6px;
@@ -28505,14 +28505,14 @@ aside .widget-title, .aux-aside .widget-title {
       top: 5px;
       left: 10px; }
     .widget_calendar tfoot td#prev a:after {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 6px;
       height: 10px;
       background-position: 0px -761px; }
     .widget_calendar tfoot td#next a:after {
-      background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+      background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
       background-repeat: no-repeat;
       display: block;
       width: 6px;
@@ -28521,14 +28521,14 @@ aside .widget-title, .aux-aside .widget-title {
 .aux-dark .widget_calendar th {
   color: white; }
 .aux-dark .widget_calendar tfoot td#prev a:after {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block;
   width: 6px;
   height: 10px;
   background-position: -178px -761px; }
 .aux-dark .widget_calendar tfoot td#next a:after {
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block;
   width: 6px;
@@ -28568,7 +28568,7 @@ aside .widget-title, .aux-aside .widget-title {
     color: #1bb0ce; }
 .aux-dark .widget_archive select, .aux-dark .widget_categories select {
   background-color: transparent !important;
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/controls/arrows/small-arrow-down-white.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/controls/arrows/small-arrow-down-white.svg);
   border-color: #BBB;
   color: white; }
 
@@ -30095,7 +30095,7 @@ aside .aux-widget-contact-box .aux-map-wrapper + .aux-contact-details {
     content: '';
     position: absolute;
     right: 1.4em;
-    background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+    background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
     background-repeat: no-repeat;
     display: block;
     width: 16px;
@@ -30523,7 +30523,7 @@ aside.aux-dark .aux-slide-title h3 {
   content: '';
   position: absolute;
   right: 1.3em;
-  background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+  background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
   background-repeat: no-repeat;
   display: block;
   width: 16px;
@@ -31260,7 +31260,7 @@ aside.aux-dark .aux-slide-title h3 {
               transform: translateY(-50%); }
       .aux-modern-search .select2-container .select2-selection--single .select2-selection__arrow:before {
         content: '';
-        background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
+        background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/symbols.svg);
         background-repeat: no-repeat;
         display: block;
         width: 10px;
@@ -31944,7 +31944,7 @@ aside.aux-dark .aux-slide-title h3 {
         padding-left: 3.125em !important; }
         .aux-next-prev-posts.nav-skin-modern .np-prev-section .np-nav-text:before {
           content: ' ' !important;
-          background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/leftarrow.svg);
+          background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/leftarrow.svg);
           width: 30px;
           height: 13px;
           margin-top: -2px; }
@@ -31954,7 +31954,7 @@ aside.aux-dark .aux-slide-title h3 {
         padding-right: 3.125em !important; }
         .aux-next-prev-posts.nav-skin-modern .np-next-section .np-nav-text:after {
           content: ' ' !important;
-          background-image: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/rightarrow.svg);
+          background-image: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/rightarrow.svg);
           width: 30px;
           height: 13px;
           margin-top: -2px; }
@@ -32885,7 +32885,7 @@ aside.aux-dark .aux-slide-title h3 {
   .not-found .aux-404-icon {
     margin-right: 20px;
     float: left;
-    background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/404.svg) no-repeat top left;
+    background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/404.svg) no-repeat top left;
     width: 48px;
     height: 58px; }
   .not-found .message404 {
@@ -33021,7 +33021,7 @@ aside.aux-dark .aux-slide-title h3 {
     .aux-commentlist.skin-arrow-links .children > li {
       padding-left: 60px; }
       .aux-commentlist.skin-arrow-links .children > li:first-child {
-        background: url(http://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/reply.svg) no-repeat 13px 0; }
+        background: url(https://mirunoah.github.io/wp-content/themes/phlox/css/images/svg/reply.svg) no-repeat 13px 0; }
   @media print {
     .aux-commentlist {
       display: none; } }

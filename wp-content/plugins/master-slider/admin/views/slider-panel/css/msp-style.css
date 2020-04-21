@@ -6,7 +6,7 @@
  */
 
 /* import featherlight css*/
-@import url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/css/featherlight.min.css);
+@import url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/css/featherlight.min.css);
 .msp-container{
 	min-width: 920px;
 }
@@ -66,7 +66,7 @@
 }
 
 /* Icons */
-.msp-ico { background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) no-repeat; display: inline-block;}
+.msp-ico { background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) no-repeat; display: inline-block;}
 .msp-ico-settings {
 	background-position: -1px -1px;
 	width: 16px;
@@ -238,7 +238,7 @@
 .msp-ico.msp-ico-testdrive {
     width: 42px;
     height: 25px;
-    background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/key.png) no-repeat;
+    background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/key.png) no-repeat;
     vertical-align: top;
     top: 10px;
     display: inline-block;
@@ -489,7 +489,7 @@ a.msp-pf-btn.msp-pf-more-btn:hover {
 
 .msp-time-ago:before{
 	margin: -3px 5px;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/info.png);
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/info.png);
 }
 
 .msp-saving-msg-cont {
@@ -508,18 +508,18 @@ a.msp-pf-btn.msp-pf-more-btn:hover {
 
 .msp-save-status.msp-saving:before {
 	margin: -2px 5px;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/saving.gif);
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/saving.gif);
 }
 
 .msp-save-status.msp-save-error:before {
 	margin: -2px 5px;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/cross.png);
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/cross.png);
 }
 
 
 .msp-save-status.msp-save-succeed:before {
   	margin: -2px 5px;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/check.png);
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/check.png);
 }
 
 /* MSP Meta Box */
@@ -806,7 +806,7 @@ button.msp-remove-btn-med {
 	top: 1px;
 	right: 0;
 	color: #666;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) #FFF no-repeat -221px -71px;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) #FFF no-repeat -221px -71px;
 	font-size: 10px;
 	border: solid 1px #dedede;
 	overflow: hidden;
@@ -853,7 +853,7 @@ button.msp-remove-btn-med {
 }
 
 .ui-widget-overlay {
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) rgba(24, 24, 24, 0.89) !important;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) rgba(24, 24, 24, 0.89) !important;
 	opacity: 1 !important;
 }
 
@@ -867,7 +867,7 @@ button.msp-remove-btn-med {
 
 .msp-dialog button.ui-dialog-titlebar-close {
 	float: right;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -172px -147px !important;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -172px -147px !important;
 	border: none;
 	margin: 0;
 	padding: 0;
@@ -1043,7 +1043,7 @@ button.msp-remove-btn-med {
 	width: 106px;
 	border-right: solid 1px #dedede;
 	overflow: hidden;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -1px -151px;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -1px -151px;
 }
 
 button.msp-img-btn {
@@ -1146,7 +1146,7 @@ button.msp-img-btn {
 }
 
 .msp-slideframe.msp-overlay-layers .msp-img-cont {
-    background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/overlay-layer.png) center no-repeat white;
+    background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/overlay-layer.png) center no-repeat white;
 }
 
 .msp-slideframe.msp-overlay-layers .msp-frame-slideorder {
@@ -1334,7 +1334,7 @@ button.msp-img-btn {
 	height: 100%;
 	margin: 0 20px;
 	border-right: solid 1px #DEDEDE;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/time-ruler.png) repeat-x bottom left;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/time-ruler.png) repeat-x bottom left;
 }
 
 .msp-tl-ruler-frameindicator {
@@ -1350,7 +1350,7 @@ button.msp-img-btn {
 	bottom: 0;
 	width: 14px;
 	height: 26px;
-	background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -126px -151px;
+	background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -126px -151px;
 	cursor: default;
 }
 
@@ -1546,9 +1546,9 @@ button.msp-img-btn {
 	cursor: default !important;
 }
 
-.msp-range-delay	{ background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) #dcdada;}
+.msp-range-delay	{ background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) #dcdada;}
 .msp-range-show	 { background: #2ea2cc;}
-.msp-range-wating { background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) #fff3b6;}
+.msp-range-wating { background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) #fff3b6;}
 .msp-range-hide	 { background: #e46161;}
 
 .avt-range-tooltip {
@@ -1639,7 +1639,7 @@ button.msp-img-btn {
 .msp-solo-plane {
     width: 100%;
     height: 100%;
-    background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) rgba(0, 0, 0, 0.5);
+    background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/patt.png) rgba(0, 0, 0, 0.5);
     position: absolute;
     top: 0;
     z-index: 500;
@@ -1824,7 +1824,7 @@ button.msp-img-btn {
 
 .msp-effect-sample,
 .msp-effect-guide {
-    background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/sample.png) no-repeat;
+    background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/sample.png) no-repeat;
 	border: solid 1px #E9E9E9;
 	width: 120px;
 	height: 108px;
@@ -2053,7 +2053,7 @@ button.msp-savepreset {
     right: 0;
     width: 22px;
     height: 22px;
-    background: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -194px -146px no-repeat #2EA2CC;
+    background: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/ui-spritesheet.png) -194px -146px no-repeat #2EA2CC;
 }
 
 .msp-templates-bottom {
@@ -2388,7 +2388,7 @@ New pro tab styles
 .msp-new-pro-header {
     position: relative;
     background-color: #5B30D8;
-    background-image: url('http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/header.jpg') ;
+    background-image: url('https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/header.jpg') ;
     background-repeat: no-repeat;
     background-position: center bottom;
 }
@@ -2396,7 +2396,7 @@ New pro tab styles
 .msp-new-pro-logo {
     padding-top: 70px;
     padding-bottom: 55px;
-    background-image: url(http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/header-logo.png);
+    background-image: url(https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/header-logo.png);
     background-repeat: no-repeat;
     background-position: center 50px;
 }
@@ -2434,7 +2434,7 @@ New pro tab styles
 
 .msp-new-pro-headerBg p::before {
     content: "";
-    background-image: url('http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/package.png');
+    background-image: url('https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/package.png');
     background-repeat: no-repeat;
     display: inline-block;
     width: 22px;
@@ -2486,7 +2486,7 @@ New pro tab styles
 
 .msp-new-pro-features-items li::before {
     content: "";
-    background-image: url('http://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/check.png');
+    background-image: url('https://mirunoah.github.io/wp-content/plugins/master-slider/admin/views/slider-panel/images/pro-features/check.png');
     background-repeat: no-repeat;
     display: inline-block;
     width: 18px;

@@ -2,12 +2,12 @@
 /** masterslider admin menu icon **/
 #toplevel_page_master-slider .menu-icon-generic div.wp-menu-image:before { content: ' ';}
 #toplevel_page_master-slider .menu-icon-generic div.wp-menu-image {
-	background: url( http://mirunoah.github.io/wp-content/plugins/master-slider/admin/assets/images/master-admin-menu.svg) no-repeat 7px 7px !important;
+	background: url( https://mirunoah.github.io/wp-content/plugins/master-slider/admin/assets/images/master-admin-menu.svg) no-repeat 7px 7px !important;
 	background-size: 23px auto !important;
 	opacity:0.6;
 }
 .mce-i-msp_shortcodes_button {
-	background: url( http://mirunoah.github.io/wp-content/plugins/master-slider/admin/assets/images/master-dark.svg) no-repeat 0 2px !important;
+	background: url( https://mirunoah.github.io/wp-content/plugins/master-slider/admin/assets/images/master-dark.svg) no-repeat 0 2px !important;
 	left: 3px;
 	position: relative !important;
 	top: -1px;
@@ -18,7 +18,7 @@
 }
 /** visual composer element **/
 .icon-vc-msslider-el ,
-.wpb_masterslider_pb .wpb_element_wrapper { background-image: url( http://mirunoah.github.io/wp-content/plugins/master-slider/admin/assets/images/thirdparty/master-slider-32x32.png) !important; }
+.wpb_masterslider_pb .wpb_element_wrapper { background-image: url( https://mirunoah.github.io/wp-content/plugins/master-slider/admin/assets/images/thirdparty/master-slider-32x32.png) !important; }
 
 .msp-banner-wrapper.updated {
     margin-left:0;
