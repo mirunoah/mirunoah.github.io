@@ -1,0 +1,194 @@
+
+---Downloaded files---
+The import files for: Demo One were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/MiruNoahSite
+Data file = /Applications/MAMP/htdocs/MiruNoahSite/wp-content/uploads/2020/04/demo-content-import-file_2020-04-21__07-40-34.xml
+Widget file = /Applications/MAMP/htdocs/MiruNoahSite/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-21__07-40-34.json
+Customizer file = /Applications/MAMP/htdocs/MiruNoahSite/wp-content/uploads/2020/04/demo-customizer-import-file_2020-04-21__07-40-34.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "adult-adventure-back-669004" (Media)
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+[ERROR] Failed to import "adventure-enjoyment-explore-630833" (Media)
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 5
+[ERROR] Failed to import "ascjascnancan" (Media)
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+[ERROR] Failed to import "jasjcnjascnjascapacsancs" (Media)
+
+
+------
+Completed AJAX call number: 13
+[ERROR] Failed to import "jasncajncnasncasknacsppcas" (Media)
+
+
+------
+Completed AJAX call number: 14
+
+
+------
+Completed AJAX call number: 15
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 18
+[ERROR] Failed to import "jsajdajcnajsncjknaknckasnj" (Media)
+
+
+------
+Completed AJAX call number: 19
+
+
+------
+Completed AJAX call number: 20
+
+
+------
+Completed AJAX call number: 21
+
+
+------
+Completed AJAX call number: 22
+[ERROR] Failed to import "nscjannjaskknjckanjkna" (Media)
+[ERROR] Failed to import "sachajscjascbahs" (Media)
+
+
+------
+Completed AJAX call number: 23
+
+
+------
+Completed AJAX call number: 24
+
+
+------
+Completed AJAX call number: 25
+
+
+------
+Completed AJAX call number: 26
+
+
+------
+Completed AJAX call number: 27
+
+
+------
+Completed AJAX call number: 28
+
+
+------
+Completed AJAX call number: 29
+
+
+------
+Completed AJAX call number: 30
+
+
+---Importing content---
+[WARNING] Failed to import "About page contact form": Invalid post type wpcf7_contact_form
+
+Max execution time after content import = 300
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+fascinate-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Widget already exists
+F: Author Widget - Hello! - Imported to Inactive
+F: Social Widget - No Title - Imported to Inactive
+Categories - Category - Imported to Inactive
+F: Posts Widget - Recent Posts - Imported to Inactive
+
+fascinate-footer-left : Sidebar does not exist in theme (moving widget to Inactive)
+
+F: Posts Widget - Recent posts - Imported to Inactive
+
+fascinate-footer-middle : Sidebar does not exist in theme (moving widget to Inactive)
+
+Tag Cloud - Tag cloud - Imported to Inactive
+
+fascinate-footer-right : Sidebar does not exist in theme (moving widget to Inactive)
+
+F: Posts Widget - Recent post 2 - Imported to Inactive
+
+Sidebar : 
+
+F: Author Widget - Hello - Imported
+F: Social Widget - Social - Imported
+F: Posts Widget - Recent posts - Imported
+Categories - Category - Imported
+
+Footer Left : 
+
+F: Posts Widget - Popular posts - Imported
+
+Footer Middle : 
+
+Tag Cloud - Tag cloud - Imported
+
+Footer Right : 
+
+F: Posts Widget - Recent posts - Imported
+
+
+
+---et-after-demo-content-import---
+
